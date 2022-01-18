@@ -3,7 +3,8 @@ int main(void)
 {
 	int a,b,i,n=0,e,s[30],sum=0;
 
-	printf("Enter number here:");
+	printf("Enter number once :");
+	printf("Enter number :");
 	scanf("%d",&a);
 	b = a;
 	while(a>0)
