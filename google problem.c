@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
+//adding comment and will push to github
 	int a,b,i,n=0,e,s[30],sum=0;
 
 	printf("Enter number once :");
