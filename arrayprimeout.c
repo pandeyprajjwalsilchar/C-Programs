@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>//starting of code
 int main()
 {
     int a[10],b[10],n,i,j,count=0;
